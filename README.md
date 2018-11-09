@@ -6,3 +6,5 @@ Madlibs.php - Mad Libs game. Practice with user input
 
 password.php- Practice with Post Method
 
+array.php - Practice with PHP Arrays
+
