@@ -1,4 +1,4 @@
-<form action="site.php" method="GET">
+<form action="MadLibs.php" method="GET">
      Color: <input type="text" name="color">
      Plural Noun: <input type="text" name="pluralNoun">
      Celebrity: <input type="text" name="celebrity">

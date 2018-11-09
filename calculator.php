@@ -1,4 +1,4 @@
-<form action="site.php" method="GET">
+<form action="calculator.php" method="GET">
      Num1: <input type="number" name="num1">
      Num2: <input type="number" name="num2">
      <input type="submit">
